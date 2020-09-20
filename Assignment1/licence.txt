@@ -1,0 +1,3 @@
+Copyright: Sen Wang, 2020, - All Right Reserved
+Email: sen.wang@mail.mcgill.ca
+Dept: Faculty of Engineering
