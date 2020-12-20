@@ -20,11 +20,11 @@ webmetrics.sh will parse webserver logs and produce three metrics:
 
 ## Assignment 4:
 Built-in data types of programming languages (including C) have limitations in terms of size and range of data (example integers) that they can work with. This is often an impediment for many calculations (such as scientific computations) which can involve numbers beyond the range that is supported by built-in data types.
-In this assignment I developed a scientific calculator that can perform calculations over arbitrarily large numbers.
+This assignment consists a scientific calculator that can perform calculations over arbitrarily large numbers.
 
 ## Assignment 5:
 Online platforms can track users easily and study and analyze user behaviour. Such
-data analytics are also relevant with remote delivery of exams. In this assignment, I analyze an user event file (data.csv) for such an exam generated from mycourses (anonymised) to look for students who could have possibly collaborated.
+data analytics are also relevant with remote delivery of exams. This assignment consists of analyzing an user event file (data.csv) for such an exam generated from mycourses (anonymised) to look for students who could have possibly collaborated.
 
 ## Assignment 6:
 Word clouds are often used to visualize the context of an article or someone's academic research. This is because they are a good visual representation of the main research categories on which one or more articles focus. This is accomplished by constructing an image where words are organized in the shape of a cloud with words which occur
