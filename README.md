@@ -13,3 +13,7 @@ Furthermore, the name of the tar file created will need to contain the name of t
 srcdiff.sh will take two directories as input parameters, iterate over the list of files, and report files which are either present in one directory but missing in the other, or present in both directories but differ in content. 
 
 ## Assignment 3:
+webmetrics.sh will parse webserver logs and produce three metrics:
+1. Number of requests comming from the browsers Safari, Firefox and Chrome.
+2. Number of distinct users (distinct IP addresses) per day.
+3. Top 20 popular requests by product ID. 
