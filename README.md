@@ -30,3 +30,7 @@ data analytics are also relevant with remote delivery of exams. This assignment 
 Word clouds are often used to visualize the context of an article or someone's academic research. This is because they are a good visual representation of the main research categories on which one or more articles focus. This is accomplished by constructing an image where words are organized in the shape of a cloud with words which occur
 at a higher frequency getting more emphasis (i.e., larger fonts). The first task in building a word cloud is to scan the relevant articles and compute the frequency of different words in it. To facilitate this, in this exercise, I created a C program, wcloud, a simple application that reads through all the text files passed in as its argument and prints the number of times each word occurs across all those text files.
 The output is printed in alphabetical order. The program is expected to contain multiple modules (multiple C files).
+
+*DISCLAIMER*    
+These are not perfect projects and shouldn't be copied.     
+McGill University's Engineering Faculty uses code-plagiarism software to detect any copied code.
